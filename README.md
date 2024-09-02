@@ -15,5 +15,5 @@ Open the index.html file in your browser.
 Enjoy playing the Snake game!
 
 ## Demo:
-You can play the game live on my website [here](https://your-username.github.io/snake-game/).
+You can play the game live on my website [here](https://maplemilksheikh.github.io/snake-game/).
 
